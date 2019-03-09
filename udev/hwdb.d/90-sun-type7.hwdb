@@ -5,5 +5,9 @@
 evdev:name:Sun USB Keyboard:dmi:bvn*:bvr*:bd*:svn*:pn*:pvr*
  KEYBOARD_KEY_70039=leftctrl
  KEYBOARD_KEY_700e0=capslock
+ KEYBOARD_KEY_70076=esc
+ KEYBOARD_KEY_70029=backslash
+ KEYBOARD_KEY_70031=grave
+ KEYBOARD_KEY_70035=backspace
  KEYBOARD_LED_COMPOSE=1
 
